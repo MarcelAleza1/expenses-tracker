@@ -2,6 +2,9 @@
 
 I built a portfolio website using React.js
 
+Find the live website here: https://marcelaleza1.github.io/
+
+
 ## Usage
 ```
 npm install
