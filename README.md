@@ -1,6 +1,6 @@
-# Expense Tracker (React)
+# Portfolio website using React.js
 
-I built a react app to track expenses, it uses context api and react hooks.
+I built a portfolio website using React.js
 
 ## Usage
 ```
