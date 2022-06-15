@@ -2,12 +2,12 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.jpeg";
-import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
-import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import qkart_img from "../../Assets/Projects/qkart.png";
+import sentiments from "../../Assets/Projects/sentiments.jpg";
+import fbi_gun from "../../Assets/Projects/fbigun.jpg";
+import tvscript from "../../Assets/Projects/tvscript.png";
+import face_gen from "../../Assets/Projects/facegeneration.jpg";
+import data_wrangle from "../../Assets/Projects/datawrangling.png";
 
 function Projects() {
   return (
@@ -23,7 +23,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={qkart_img}
               isBlog={false}
               title="Qkart"
               description="Developed and deployed a fully functional e-commerce website build with react.js, Material-UI, and Node.js. A user can sign up, logged in, place order, set delivery address and many more."
@@ -33,7 +33,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={sentiments}
               isBlog={false}
               title="Sentiments Analysis"
               description="In this project I have trained and deployed a sentiment analysis model using Amazon SageMaker. 
@@ -44,7 +44,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={fbi_gun}
               isBlog={false}
               title="Investigate-FBI-Gun-dataset"
               description="In this project, i used data analysis methods on FBI Gun dataset and i found that the gun registration per capita is 0.39781331523550745% in 2010, while in 2016 it is equal to 0.677793404977627%, this shows an increase of 70%. In 2021, the hand guns are the most registered, 9932120 records of handgun have been registered and multiple guns are the least registered in 2021 with a record of 327875."
@@ -54,7 +54,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={leaf}
+              imgPath={tvscript}
               isBlog={false}
               title="TV-Scripts-Generation"
               description="In this project, I have generated my own Seinfeld TV scripts using RNNs (Recurrent Neural Networks). 
@@ -67,7 +67,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={suicide}
+              imgPath={face_gen}
               isBlog={false}
               title="Face Generation"
               description="In this project, I have defined and trained a DCGAN (Deep Convolutional Generative Adversarial Network) on a dataset of faces.
@@ -79,7 +79,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={emotion}
+              imgPath={data_wrangle}
               isBlog={false}
               title="Data Wrangling"
               description="I used twitter archives of Twitter user @dog_rates also known as WeRateDogs to analyze and visualize."
