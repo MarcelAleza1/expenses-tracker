@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.3e954338.css",
-    "main.js": "/static/js/main.898ee270.js",
+    "main.js": "/static/js/main.21746c05.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/qkart.png": "/static/media/qkart.59762497a4ee26d794e1.png",
-    "static/media/Mazi-cv.pdf": "/static/media/Mazi-cv.e0c069b859601472108d.pdf",
+    "static/media/Mazi-cv.pdf": "/static/media/Mazi-cv.89598b6544dc25bda4d1.pdf",
     "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/tvscript.png": "/static/media/tvscript.50815b51152f8dd3fac7.png",
@@ -15,12 +15,12 @@
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.3e954338.css.map": "/static/css/main.3e954338.css.map",
-    "main.898ee270.js.map": "/static/js/main.898ee270.js.map",
+    "main.21746c05.js.map": "/static/js/main.21746c05.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3e954338.css",
-    "static/js/main.898ee270.js"
+    "static/js/main.21746c05.js"
   ]
 }
