@@ -9,9 +9,10 @@ function Type() {
           // "Developer",
           // "Deep Learning Engineer",
           // "MERN Stack Developer",
-          "Data Analyst",
-    
+          // "Data Analyst",
           // "Open Source Contributor",
+          "Full Stack Developer",
+          "Machine Learning Engineer"
         ],
         autoStart: true,
         loop: true,

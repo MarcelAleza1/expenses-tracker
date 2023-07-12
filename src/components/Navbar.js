@@ -94,11 +94,11 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="	https://medium.com/@maziessoloanialeza"
+                href="https://ieeexplore.ieee.org/document/10169463"
                 target="_blank"
                 rel="noreferrer"
               >
-                <ImBlog style={{ marginBottom: "2px" }} /> Blogs
+                <ImBlog style={{ marginBottom: "2px" }} /> Research
               </Nav.Link>
             </Nav.Item>
 
