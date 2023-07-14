@@ -27,7 +27,7 @@ function Projects() {
               isBlog={false}
               title="Qkart"
               description="Developed and deployed a fully functional e-commerce website build with react.js, Material-UI, and Node.js. A user can sign up, logged in, place order, set delivery address and many more."
-              link="https://qkartfrontendbyaleza.netlify.app/"
+              link="https://ecomqkart.netlify.app/"
             />
           </Col>
 
