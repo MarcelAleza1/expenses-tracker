@@ -2,7 +2,7 @@
 Updated to meet alx criterias
 I built a portfolio website using React.js
 
-Find the live website here: https://marcelaleza1.github.io/portfolio/
+Find the live website here: https://maziportfolio.netlify.app/
 
 
 ## Usage
